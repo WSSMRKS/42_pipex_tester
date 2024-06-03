@@ -1,3 +1,5 @@
+**This tester is copied from https://github.com/michmos/42_pipex_tester!!**
+
 # 42 pipex tester
 This is a tester for the project `pipex` from the ecole 42 core curriculum. It is designed to facilitate the addition of your own custom test cases.
 
